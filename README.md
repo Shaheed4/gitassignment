@@ -1,2 +1,1 @@
-# gitassignment
-assgn1
+Welcome to my Project
